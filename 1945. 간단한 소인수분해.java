@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//1945. 간단한 소인수분해
 class Solution{
 	
 	public static void main(String[] args){
