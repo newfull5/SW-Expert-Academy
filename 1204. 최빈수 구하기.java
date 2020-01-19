@@ -30,7 +30,7 @@ class Solution{
 			}			
 			System.out.printf("#%d %d\n",C,최빈값);
 		}
-	
+	 
 	}//main end
 
 }//class end
